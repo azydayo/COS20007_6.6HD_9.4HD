@@ -1,0 +1,72 @@
+{
+    "audio": "Audio/Zero",
+    "offset": 0.0,
+    "notes": [
+        {
+            "Time": 0.5,
+            "Type": "Normal",
+            "Row": 0
+        },
+        {
+            "Time": 1.0,
+            "Type": "Normal",
+            "Row": 1
+        },
+        {
+            "Time": 1.5,
+            "Type": "Normal",
+            "Row": 0
+        },
+        {
+            "Time": 2.0,
+            "Type": "Normal",
+            "Row": 1
+        },
+        {
+            "Time": 4.2,
+            "Type": "Boss",
+            "Row": -1
+        },
+        {
+            "Time": 4.6,
+            "Type": "Flash",
+            "Row": 0
+        },
+        {
+            "Time": 4.5,
+            "Type": "Ghost",
+            "Row": 1
+        },
+        {
+            "Time": 8.0,
+            "Type": "Fake",
+            "Row": 1
+        },
+        {
+            "Time": 10.0,
+            "Type": "Fake",
+            "Row": 0
+        },
+
+        {
+            "Time": 12.0,
+            "Type": "Bomb",
+            "Row": 0
+        },
+        {
+            "Time": 14.0,
+            "Type": "Bomb",
+            "Row": 0
+        },
+        {
+            "Time": 16.0,
+            "Type": "Bomb",
+            "Row": 0
+        },
+        {
+            "Time": 18.0,
+            "Type": "Bomb",
+            "Row": 0
+        }
+    ]
+}

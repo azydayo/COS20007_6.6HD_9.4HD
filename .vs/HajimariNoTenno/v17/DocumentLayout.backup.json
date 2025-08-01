@@ -1,0 +1,471 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\COS20007\\HajimariNoTenno\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|d:\\cos20007\\hajimarinotenno\\hajimarinotenno\\hitcircles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|solutionrelative:hajimarinotenno\\hitcircles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|d:\\cos20007\\hajimarinotenno\\hajimarinotenno\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|solutionrelative:hajimarinotenno\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|d:\\cos20007\\hajimarinotenno\\hajimarinotenno\\gameovermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|solutionrelative:hajimarinotenno\\gameovermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|d:\\cos20007\\hajimarinotenno\\hajimarinotenno\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|solutionrelative:hajimarinotenno\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|d:\\cos20007\\hajimarinotenno\\hajimarinotenno\\flashenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|solutionrelative:hajimarinotenno\\flashenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|d:\\cos20007\\hajimarinotenno\\hajimarinotenno\\finalmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|solutionrelative:hajimarinotenno\\finalmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|d:\\cos20007\\hajimarinotenno\\hajimarinotenno\\fakeenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|solutionrelative:hajimarinotenno\\fakeenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|d:\\cos20007\\hajimarinotenno\\hajimarinotenno\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|solutionrelative:hajimarinotenno\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|d:\\cos20007\\hajimarinotenno\\hajimarinotenno\\customcursor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|solutionrelative:hajimarinotenno\\customcursor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|d:\\cos20007\\hajimarinotenno\\hajimarinotenno\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|solutionrelative:hajimarinotenno\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|d:\\cos20007\\hajimarinotenno\\hajimarinotenno\\bossspawnenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|solutionrelative:hajimarinotenno\\bossspawnenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|d:\\cos20007\\hajimarinotenno\\hajimarinotenno\\bossenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|solutionrelative:hajimarinotenno\\bossenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|d:\\cos20007\\hajimarinotenno\\hajimarinotenno\\bombenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|solutionrelative:hajimarinotenno\\bombenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|d:\\cos20007\\hajimarinotenno\\hajimarinotenno\\beatmapmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|solutionrelative:hajimarinotenno\\beatmapmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|d:\\cos20007\\hajimarinotenno\\hajimarinotenno\\beatmapentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|solutionrelative:hajimarinotenno\\beatmapentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|d:\\cos20007\\hajimarinotenno\\hajimarinotenno\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|solutionrelative:hajimarinotenno\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|d:\\cos20007\\hajimarinotenno\\hajimarinotenno\\animatedbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|solutionrelative:hajimarinotenno\\animatedbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|d:\\cos20007\\hajimarinotenno\\hajimarinotenno\\normalenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|solutionrelative:hajimarinotenno\\normalenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|d:\\cos20007\\hajimarinotenno\\hajimarinotenno\\content\\beatmaps\\test\\normal.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|solutionrelative:hajimarinotenno\\content\\beatmaps\\test\\normal.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|d:\\cos20007\\hajimarinotenno\\hajimarinotenno\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|solutionrelative:hajimarinotenno\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|d:\\cos20007\\hajimarinotenno\\hajimarinotenno\\imagefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|solutionrelative:hajimarinotenno\\imagefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|d:\\cos20007\\hajimarinotenno\\hajimarinotenno\\content\\beatmaps\\haru\\normal.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|solutionrelative:hajimarinotenno\\content\\beatmaps\\haru\\normal.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|d:\\cos20007\\hajimarinotenno\\hajimarinotenno\\content\\beatmaps\\hajimari no signal\\normal.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|solutionrelative:hajimarinotenno\\content\\beatmaps\\hajimari no signal\\normal.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|d:\\cos20007\\hajimarinotenno\\hajimarinotenno\\content\\beatmaps\\zero\\normal.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|solutionrelative:hajimarinotenno\\content\\beatmaps\\zero\\normal.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\COS20007\\Fixing\\HajimariNoSignal\\HajimariNoSignal\\HajimariNoSignal\\MainMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|d:\\cos20007\\hajimarinotenno\\hajimarinotenno\\transitionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|solutionrelative:hajimarinotenno\\transitionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|d:\\cos20007\\hajimarinotenno\\hajimarinotenno\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{08BB2B16-52BA-4D66-A668-D161CBB6FB30}|HajimariNoTenno\\HajimariNoTenno.csproj|solutionrelative:hajimarinotenno\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "game1.cs",
+              "DocumentMoniker": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\game1.cs",
+              "RelativeDocumentMoniker": "HajimariNoTenno\\game1.cs",
+              "ToolTip": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\game1.cs",
+              "RelativeToolTip": "HajimariNoTenno\\game1.cs",
+              "ViewState": "AgIAAO8AAAAAAAAAAAAnwPwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T16:02:28.359Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BeatMapManager.cs",
+              "DocumentMoniker": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\BeatMapManager.cs",
+              "RelativeDocumentMoniker": "HajimariNoTenno\\BeatMapManager.cs",
+              "ToolTip": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\BeatMapManager.cs",
+              "RelativeToolTip": "HajimariNoTenno\\BeatMapManager.cs",
+              "ViewState": "AgIAAGMBAAAAAAAAAAAxwIwBAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T07:11:59.105Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FinalMenu.cs",
+              "DocumentMoniker": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\FinalMenu.cs",
+              "RelativeDocumentMoniker": "HajimariNoTenno\\FinalMenu.cs",
+              "ToolTip": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\FinalMenu.cs",
+              "RelativeToolTip": "HajimariNoTenno\\FinalMenu.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwEQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T07:48:05.528Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hitcircles.cs",
+              "DocumentMoniker": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\hitcircles.cs",
+              "RelativeDocumentMoniker": "HajimariNoTenno\\hitcircles.cs",
+              "ToolTip": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\hitcircles.cs*",
+              "RelativeToolTip": "HajimariNoTenno\\hitcircles.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T12:36:29.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\Enemy.cs",
+              "RelativeDocumentMoniker": "HajimariNoTenno\\Enemy.cs",
+              "ToolTip": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\Enemy.cs",
+              "RelativeToolTip": "HajimariNoTenno\\Enemy.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwCUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T13:54:44.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FakeEnemy.cs",
+              "DocumentMoniker": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\FakeEnemy.cs",
+              "RelativeDocumentMoniker": "HajimariNoTenno\\FakeEnemy.cs",
+              "ToolTip": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\FakeEnemy.cs",
+              "RelativeToolTip": "HajimariNoTenno\\FakeEnemy.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T16:27:36.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FlashEnemy.cs",
+              "DocumentMoniker": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\FlashEnemy.cs",
+              "RelativeDocumentMoniker": "HajimariNoTenno\\FlashEnemy.cs",
+              "ToolTip": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\FlashEnemy.cs",
+              "RelativeToolTip": "HajimariNoTenno\\FlashEnemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:03:47.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameOverMenu.cs",
+              "DocumentMoniker": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\GameOverMenu.cs",
+              "RelativeDocumentMoniker": "HajimariNoTenno\\GameOverMenu.cs",
+              "ToolTip": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\GameOverMenu.cs",
+              "RelativeToolTip": "HajimariNoTenno\\GameOverMenu.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwDEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T20:29:02.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\GameState.cs",
+              "RelativeDocumentMoniker": "HajimariNoTenno\\GameState.cs",
+              "ToolTip": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\GameState.cs",
+              "RelativeToolTip": "HajimariNoTenno\\GameState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T19:57:41.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomCursor.cs",
+              "DocumentMoniker": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\CustomCursor.cs",
+              "RelativeDocumentMoniker": "HajimariNoTenno\\CustomCursor.cs",
+              "ToolTip": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\CustomCursor.cs",
+              "RelativeToolTip": "HajimariNoTenno\\CustomCursor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T06:54:37.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Character.cs",
+              "DocumentMoniker": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\Character.cs",
+              "RelativeDocumentMoniker": "HajimariNoTenno\\Character.cs",
+              "ToolTip": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\Character.cs",
+              "RelativeToolTip": "HajimariNoTenno\\Character.cs",
+              "ViewState": "AgIAAOwAAAAAAAAAAAAwwO4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T08:26:04.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BossSpawnEnemy.cs",
+              "DocumentMoniker": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\BossSpawnEnemy.cs",
+              "RelativeDocumentMoniker": "HajimariNoTenno\\BossSpawnEnemy.cs",
+              "ToolTip": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\BossSpawnEnemy.cs",
+              "RelativeToolTip": "HajimariNoTenno\\BossSpawnEnemy.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T10:01:53.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BossEnemy.cs",
+              "DocumentMoniker": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\BossEnemy.cs",
+              "RelativeDocumentMoniker": "HajimariNoTenno\\BossEnemy.cs",
+              "ToolTip": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\BossEnemy.cs",
+              "RelativeToolTip": "HajimariNoTenno\\BossEnemy.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwB8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T21:20:39.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BombEnemy.cs",
+              "DocumentMoniker": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\BombEnemy.cs",
+              "RelativeDocumentMoniker": "HajimariNoTenno\\BombEnemy.cs",
+              "ToolTip": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\BombEnemy.cs",
+              "RelativeToolTip": "HajimariNoTenno\\BombEnemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T10:06:10.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BeatMapEntry.cs",
+              "DocumentMoniker": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\BeatMapEntry.cs",
+              "RelativeDocumentMoniker": "HajimariNoTenno\\BeatMapEntry.cs",
+              "ToolTip": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\BeatMapEntry.cs",
+              "RelativeToolTip": "HajimariNoTenno\\BeatMapEntry.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwE4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T15:46:40.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\AudioManager.cs",
+              "RelativeDocumentMoniker": "HajimariNoTenno\\AudioManager.cs",
+              "ToolTip": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\AudioManager.cs",
+              "RelativeToolTip": "HajimariNoTenno\\AudioManager.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAswEIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T01:26:19.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AnimatedBackground.cs",
+              "DocumentMoniker": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\AnimatedBackground.cs",
+              "RelativeDocumentMoniker": "HajimariNoTenno\\AnimatedBackground.cs",
+              "ToolTip": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\AnimatedBackground.cs",
+              "RelativeToolTip": "HajimariNoTenno\\AnimatedBackground.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T18:05:20.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Normal.JSON",
+              "DocumentMoniker": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\Content\\Beatmaps\\Test\\Normal.JSON",
+              "RelativeDocumentMoniker": "HajimariNoTenno\\Content\\Beatmaps\\Test\\Normal.JSON",
+              "ToolTip": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\Content\\Beatmaps\\Test\\Normal.JSON",
+              "RelativeToolTip": "HajimariNoTenno\\Content\\Beatmaps\\Test\\Normal.JSON",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-01T01:07:51.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NormalEnemy.cs",
+              "DocumentMoniker": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\NormalEnemy.cs",
+              "RelativeDocumentMoniker": "HajimariNoTenno\\NormalEnemy.cs",
+              "ToolTip": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\NormalEnemy.cs",
+              "RelativeToolTip": "HajimariNoTenno\\NormalEnemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T13:56:07.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\MainMenu.cs",
+              "RelativeDocumentMoniker": "HajimariNoTenno\\MainMenu.cs",
+              "ToolTip": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\MainMenu.cs",
+              "RelativeToolTip": "HajimariNoTenno\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T15:56:40.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ImageFilter.cs",
+              "DocumentMoniker": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\ImageFilter.cs",
+              "RelativeDocumentMoniker": "HajimariNoTenno\\ImageFilter.cs",
+              "ToolTip": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\ImageFilter.cs",
+              "RelativeToolTip": "HajimariNoTenno\\ImageFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T19:24:21.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Normal.JSON",
+              "DocumentMoniker": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\Content\\Beatmaps\\Haru\\Normal.JSON",
+              "RelativeDocumentMoniker": "HajimariNoTenno\\Content\\Beatmaps\\Haru\\Normal.JSON",
+              "ToolTip": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\Content\\Beatmaps\\Haru\\Normal.JSON",
+              "RelativeToolTip": "HajimariNoTenno\\Content\\Beatmaps\\Haru\\Normal.JSON",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-01T01:48:22.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Normal.JSON",
+              "DocumentMoniker": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\Content\\Beatmaps\\Hajimari no Signal\\Normal.JSON",
+              "RelativeDocumentMoniker": "HajimariNoTenno\\Content\\Beatmaps\\Hajimari no Signal\\Normal.JSON",
+              "ToolTip": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\Content\\Beatmaps\\Hajimari no Signal\\Normal.JSON",
+              "RelativeToolTip": "HajimariNoTenno\\Content\\Beatmaps\\Hajimari no Signal\\Normal.JSON",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-01T01:11:29.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Normal.JSON",
+              "DocumentMoniker": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\Content\\Beatmaps\\Zero\\Normal.JSON",
+              "RelativeDocumentMoniker": "HajimariNoTenno\\Content\\Beatmaps\\Zero\\Normal.JSON",
+              "ToolTip": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\Content\\Beatmaps\\Zero\\Normal.JSON",
+              "RelativeToolTip": "HajimariNoTenno\\Content\\Beatmaps\\Zero\\Normal.JSON",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-29T16:21:46.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "D:\\COS20007\\Fixing\\HajimariNoSignal\\HajimariNoSignal\\HajimariNoSignal\\MainMenu.cs",
+              "RelativeDocumentMoniker": "..\\Fixing\\HajimariNoSignal\\HajimariNoSignal\\HajimariNoSignal\\MainMenu.cs",
+              "ToolTip": "D:\\COS20007\\Fixing\\HajimariNoSignal\\HajimariNoSignal\\HajimariNoSignal\\MainMenu.cs",
+              "RelativeToolTip": "..\\Fixing\\HajimariNoSignal\\HajimariNoSignal\\HajimariNoSignal\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T19:02:55.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TransitionManager.cs",
+              "DocumentMoniker": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\TransitionManager.cs",
+              "RelativeDocumentMoniker": "HajimariNoTenno\\TransitionManager.cs",
+              "ToolTip": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\TransitionManager.cs",
+              "RelativeToolTip": "HajimariNoTenno\\TransitionManager.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAhwCoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T20:44:58.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "app.manifest",
+              "DocumentMoniker": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\app.manifest",
+              "RelativeDocumentMoniker": "HajimariNoTenno\\app.manifest",
+              "ToolTip": "D:\\COS20007\\HajimariNoTenno\\HajimariNoTenno\\app.manifest",
+              "RelativeToolTip": "HajimariNoTenno\\app.manifest",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2025-07-29T16:42:18.41Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

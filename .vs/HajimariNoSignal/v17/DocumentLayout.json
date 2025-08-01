@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HajimariNoSignal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{579D60CB-AA99-0442-B06B-C0B8B4C7898A}|HajimariNoSignal\\HajimariNoSignal.csproj|d:\\hajimarinosignal\\hajimarinosignal\\content\\beatmaps\\test\\normal.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{579D60CB-AA99-0442-B06B-C0B8B4C7898A}|HajimariNoSignal\\HajimariNoSignal.csproj|solutionrelative:hajimarinosignal\\content\\beatmaps\\test\\normal.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Normal.JSON",
+              "DocumentMoniker": "D:\\HajimariNoSignal\\HajimariNoSignal\\Content\\Beatmaps\\Test\\Normal.JSON",
+              "RelativeDocumentMoniker": "HajimariNoSignal\\Content\\Beatmaps\\Test\\Normal.JSON",
+              "ToolTip": "D:\\HajimariNoSignal\\HajimariNoSignal\\Content\\Beatmaps\\Test\\Normal.JSON",
+              "RelativeToolTip": "HajimariNoSignal\\Content\\Beatmaps\\Test\\Normal.JSON",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-01T14:14:27.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

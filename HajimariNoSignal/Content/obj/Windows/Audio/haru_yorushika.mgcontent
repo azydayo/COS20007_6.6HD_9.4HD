@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/COS20007/HajimariNoTenno/HajimariNoTenno/Content/Audio/haru_yorushika.mp3</SourceFile>
+  <SourceTime>2025-07-23T18:31:46.5134582+07:00</SourceTime>
+  <DestFile>D:/COS20007/HajimariNoTenno/HajimariNoTenno/Content/bin/Windows/Audio/haru_yorushika.xnb</DestFile>
+  <DestTime>2025-08-01T08:06:44.379133+07:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2025-06-02T17:31:02+07:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2025-06-02T17:31:02+07:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>D:/COS20007/HajimariNoTenno/HajimariNoTenno/Content/bin/Windows/Audio/haru_yorushika.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>
