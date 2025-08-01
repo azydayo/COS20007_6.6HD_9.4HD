@@ -29,7 +29,7 @@ namespace HajimariNoSignal
         public override void Draw(SpriteBatch spriteBatch)
         {
             if (_isAlive)
-                spriteBatch.Draw(_texture, _position, Color.Red); // or tint it red to warn the player
+                spriteBatch.Draw(_texture, _position, Color.Red); 
         }
     }
 }
