@@ -210,8 +210,7 @@ namespace HajimariNoSignal
                     }
                 }
             }
-
-            // ✅ Move this OUTSIDE the loop!
+            
             if (_started && MediaPlayer.State == MediaState.Stopped && !_isGameOver)
             {
                 TriggerFinal();
