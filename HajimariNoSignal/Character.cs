@@ -41,7 +41,7 @@ namespace HajimariNoSignal
         //private int _hp = 5;
         private int _hurtIndex = 0;
         private float _hurtFrameTime = 0f;
-        private float _hurtFrameDelay = 0.00f; // Tune as needed for frame rate
+        private float _hurtFrameDelay = 0.00f; 
 
         public Character(List<Texture2D> idleFrames, List<List<Texture2D>> attackAnimations, List<List<Texture2D>> doubleAttacks, List<Texture2D> hurtFrames)
         {
@@ -58,7 +58,7 @@ namespace HajimariNoSignal
         {
             if (_isHurt)
             {
-                _hurtTimer += 1f / 60f; // or use delta time
+                _hurtTimer += 1f / 60f; // ||d time
                 _hurtFrameTime += 1f / 60f;
 
                 if (_hurtFrameTime >= _hurtFrameDelay && _hurtIndex < _hurtFrames.Count - 1)
@@ -258,7 +258,7 @@ namespace HajimariNoSignal
 
         public Rectangle GetCollisionBox()
         {
-            return new Rectangle(_x, (int)_currentY, 150, 150); // Adjust size as needed
+            return new Rectangle(_x, (int)_currentY, 150, 150);
         }
 
         public bool IsInvincible()
