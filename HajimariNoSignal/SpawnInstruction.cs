@@ -11,7 +11,7 @@ namespace HajimariNoSignal
         public float Time;
         public string Type;
         public int Row;
-        public float Duration; // Only used for Hold enemies
+        public float Duration;
 
         public SpawnInstruction(float time, string type, int row, float duration = 0f)
         {
