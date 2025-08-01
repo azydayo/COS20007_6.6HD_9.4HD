@@ -65,11 +65,11 @@ namespace HajimariNoSignal
 
 
             Texture2D lastValidBackground = defaultBackground;
-            _topUI = content.Load<Texture2D>("Assets/TopUI"); // Adjust path if needed
+            _topUI = content.Load<Texture2D>("Assets/TopUI");
 
 
             _overlayTexture = new Texture2D(graphicsDevice, 1, 1);
-            _overlayTexture.SetData(new[] { Color.White }); // solid white pixel
+            _overlayTexture.SetData(new[] { Color.White });
 
 
             for (int i = 0; i < labels.Count; i++)
@@ -154,7 +154,7 @@ namespace HajimariNoSignal
                 _entries[i].Update(i, _scrollPosition, _hoveredIndex == i, _selectedIndex == i);
             }
 
-            // Transition logic OUTSIDE the loop
+            // Transition logic
             if (_isTransitioning)
             {
                 _backgroundAlpha -= _transitionSpeed;
